@@ -183,7 +183,7 @@ export default {
 
 
 
-##02.`$on` ，`$emit`， `v-on`三者关系
+## 02.`$on` ，`$emit`， `v-on`三者关系
 
 ###关于`$emit`与`$on`的关系
  >此文用家庭来描述`$emit`与`$on`的关系
